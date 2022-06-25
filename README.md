@@ -1,4 +1,5 @@
 # AgriTech-Project (Data Engineering)
+![download (1)](https://user-images.githubusercontent.com/79056802/175781472-bf86c637-3b98-4ee4-b064-3dd193f8b3cc.jpg)
 
 ## Project Overview
 At AgriTech, understanding how water flows through a maize farm field is key. This knowledge will help them improve their research on new agricultural products being tested on the farms. How much maize a field produces is very spatially variable. Even if the same farming practices, seeds and fertilizer are applied exactly the same by machinery over a field, there can be a very large harvest at one corner and a low harvest at another corner.  AgriTech would like to be able to better understand which parts of the farm are likely to produce more or less maize, so that if they try a new fertilizer on part of this farm, they would have more confidence that any differences in the maize harvest are due mostly to the new fertilizer changes, and not just random effects due to other environmental factors. 
