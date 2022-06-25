@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "AgriTech_Lidar_Wakura"
+version = "0.0.1"
+authors = [
+  { name="Wakura Mbuya", email="wakura9@gmail.com" },
+]
+description = "AgriTech Lidar Data Project"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/wakura-mbuya/AgriTech-Project-Data-Engineering"
+"Bug Tracker" = "https://github.com/wakura-mbuya/AgriTech-Project-Data-Engineering/issues"
